@@ -1,0 +1,15 @@
+{
+  "name": "lp-scanner-pro",
+  "version": "2.1.0",
+  "description": "LP Scanner Pro - Render backend for DEX liquidity pool monitoring",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/api.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}
